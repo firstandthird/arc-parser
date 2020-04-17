@@ -127,6 +127,9 @@
         },
         "runtime": {
           "type": "string"
+        },
+        "cdn": {
+          "type": "boolean"
         }
       }
     },
